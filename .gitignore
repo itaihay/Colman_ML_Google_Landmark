@@ -1,0 +1,10 @@
+
+*.h5
+
+Experiments/Transfer Lerning ResNet/\.ipynb_checkpoints/
+
+Experiments/Deep Neural Network/\.ipynb_checkpoints/
+
+Experiments/KNN Testing/\.ipynb_checkpoints/
+
+Sessions/\.ipynb_checkpoints/
